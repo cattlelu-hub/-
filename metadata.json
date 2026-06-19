@@ -1,0 +1,6 @@
+{
+  "name": "盤中股價即時監控與突破篩選系統",
+  "description": "即時監控盤中股價、篩選均線多頭排列個股、提示月線整理後爆量大漲突破訊號，並支援多組客製化價格區間推播提醒。",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
